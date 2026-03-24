@@ -62,7 +62,7 @@ To improve model transparency and interpretability:
 - DiCE (Diverse Counterfactual Explanations)
 - Counterfactual explanations for decision insights
   
-🚀 Project Workflow
+## 🚀 Project Workflow
 - Data Preprocessing
 - Train-Test Split
 - Model Training
