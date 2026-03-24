@@ -4,10 +4,10 @@
 This project focuses on detecting dengue cases using multiple machine learning models and enhancing interpretability through Explainable AI (XAI) techniques. The goal is to build accurate predictive models while ensuring transparency in decision-making for healthcare applications.
 
 ## 🎯 Objectives
-Develop classification models to predict dengue infection
-Compare performance across multiple machine learning algorithms
-Apply Explainable AI techniques to interpret model predictions
-Provide actionable insights for healthcare decision-making
+- Develop classification models to predict dengue infection
+- Compare performance across multiple machine learning algorithms
+- Apply Explainable AI techniques to interpret model predictions
+- Provide actionable insights for healthcare decision-making
 
 ## 📊 Dataset
 
